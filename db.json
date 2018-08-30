@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "usman",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "firstName": "Kudiman",
+      "id": "FPuyGGp"
+    },
+    {
+      "firstName": "Kudiman2",
+      "age": 19,
+      "id": "XPqEN0M"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "nepa",
+      "description": "light"
+    }
+  ]
+}
